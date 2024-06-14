@@ -57,6 +57,6 @@ App Service
 
 
 ## Contact Me:
-If you have any questions or feedback, please don't hesitate to reach out to me at (mailto: eswar17v@gmail.com).
+If you have any questions or feedback, please don't hesitate to reach out to me at (mailto: cebhuvneshsingh@gmail.com).
 
 Thank you for your interest in Royal Recipe! We hope you enjoy exploring my project.
