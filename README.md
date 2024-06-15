@@ -26,42 +26,6 @@ Azure Bot Services integrate AI-powered chatbots into our website, enabling natu
 
 By leveraging these Azure services, Sizzle & Spice offers a comprehensive and innovative dining experience, combining cutting-edge technology with exceptional customer service.
 
-## Screenshots:
-Here are some screenshots of our website:
-
-### Home Page
-![Home Page]([Screenshot 2024-06-15 194108.png)](https://github.com/bhuvnenger01/Aero.json/blob/bff5a3fb6398ef240ce8ee74fb3da3e89c36741d/Screenshot%202024-06-15%20194108.png)
-
-### Services
-![Services](![image](https://github.com/bhuvnenger01/azurefrtproject/assets/110763257/f44d881d-643d-4218-b3f3-67fac0bdcdbf)
-)
-
-### Offers
-![Offers](![image](https://github.com/bhuvnenger01/azurefrtproject/assets/110763257/935e1aee-c304-4010-8429-c923e2ff64e0)
-)
-
-### Today's Special
-![Today's Special](![image](https://github.com/bhuvnenger01/azurefrtproject/assets/110763257/31512735-29c6-45a8-b137-ade77cb1d811)
-)
-
-### Chat Bot (Azure AI Bot Service)
-![Chatbot](https://github.com/eswar17v/FRT/assets/120295896/5732c2b0-1654-40d2-be4f-d91f7d670ec5) 
-![Chatbot Interaction](https://github.com/eswar17v/FRT/assets/120295896/6a500b8a-6636-4273-8030-46c3bfc817f8)
-
-### Menu
-![Menu](![image](https://github.com/bhuvnenger01/azurefrtproject/assets/110763257/f2cade1e-ff16-47d2-ac12-2d56ac8739fe)
-)
-
-### Team
-![Team](https://github.com/eswar17v/FRT/assets/120295896/7a16db00-306e-4ffe-bff0-72ddf287de91)
-
-### Contact
-![Contact Form](![image](https://github.com/bhuvnenger01/azurefrtproject/assets/110763257/366c8d80-6514-4907-9ad6-7aba6b10ece4)
-)
-![Contact Details](![image](https://github.com/bhuvnenger01/azurefrtproject/assets/110763257/ab264af9-60a9-419d-9e70-33cf65d064b0)
-)
-
-
 ## Contact Me:
 If you have any questions or feedback, please don't hesitate to reach out to me at [cebhuvneshsingh@gmail.com](mailto:cebhuvneshsingh@gmail.com).
 
