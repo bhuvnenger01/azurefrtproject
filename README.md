@@ -30,7 +30,7 @@ By leveraging these Azure services, Sizzle & Spice offers a comprehensive and in
 Here are some screenshots of our website:
 
 ### Home Page
-![Home Page](https://github.com/bhuvnenger01/azurefrtproject/assets/110763257/48198779-decc-48a0-a683-73aa06bcf368](https://github.com/bhuvnenger01/Aero.json/blob/main/Screenshot%202024-06-15%20194108.png)
+![Home Page]([Screenshot 2024-06-15 194108.png)](https://github.com/bhuvnenger01/Aero.json/blob/bff5a3fb6398ef240ce8ee74fb3da3e89c36741d/Screenshot%202024-06-15%20194108.png)
 
 ### Services
 ![Services](![image](https://github.com/bhuvnenger01/azurefrtproject/assets/110763257/f44d881d-643d-4218-b3f3-67fac0bdcdbf)
