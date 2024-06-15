@@ -30,34 +30,38 @@ By leveraging these Azure services, Sizzle & Spice offers a comprehensive and in
 Here are some screenshots of our website:
 
 ### Home Page
-![Home Page](https://github.com/eswar17v/FRT/assets/120295896/99cfa7ac-580f-4edb-8532-cf4019638b4d)
+![Home Page](![image](https://github.com/bhuvnenger01/azurefrtproject/assets/110763257/48198779-decc-48a0-a683-73aa06bcf368)
+)
 
 ### Services
-![Services](https://github.com/eswar17v/FRT/assets/120295896/e46c94ec-4179-4eee-b73f-5e0541dad935)
+![Services](![image](https://github.com/bhuvnenger01/azurefrtproject/assets/110763257/f44d881d-643d-4218-b3f3-67fac0bdcdbf)
+)
 
 ### Offers
-![Offers](https://github.com/eswar17v/FRT/assets/120295896/83a44802-7876-411b-8222-e67356f307e6)
+![Offers](![image](https://github.com/bhuvnenger01/azurefrtproject/assets/110763257/935e1aee-c304-4010-8429-c923e2ff64e0)
+)
 
 ### Today's Special
-![Today's Special](https://github.com/eswar17v/FRT/assets/120295896/9aba8d0a-20ef-48ba-9114-a965f601e7dc)
+![Today's Special](![image](https://github.com/bhuvnenger01/azurefrtproject/assets/110763257/31512735-29c6-45a8-b137-ade77cb1d811)
+)
 
 ### Chat Bot (Azure AI Bot Service)
 ![Chatbot](https://github.com/eswar17v/FRT/assets/120295896/5732c2b0-1654-40d2-be4f-d91f7d670ec5) 
 ![Chatbot Interaction](https://github.com/eswar17v/FRT/assets/120295896/6a500b8a-6636-4273-8030-46c3bfc817f8)
 
 ### Menu
-![Menu](https://github.com/eswar17v/FRT/assets/120295896/bea798f9-ee9a-47d2-bfea-2b5064b2c711)
-![Menu Detail](https://github.com/eswar17v/FRT/assets/120295896/660ccf8c-91b4-4b37-9475-2cb5dfc5d588)
+![Menu](![image](https://github.com/bhuvnenger01/azurefrtproject/assets/110763257/f2cade1e-ff16-47d2-ac12-2d56ac8739fe)
+)
 
 ### Team
 ![Team](https://github.com/eswar17v/FRT/assets/120295896/7a16db00-306e-4ffe-bff0-72ddf287de91)
 
 ### Contact
-![Contact Form](https://github.com/eswar17v/FRT/assets/120295896/fc865d44-e40b-4682-a8ff-1c3a0bf278c7)
-![Contact Details](https://github.com/eswar17v/FRT/assets/120295896/a3b89fb1-1d2e-44b9-91ff-2184abd55a44)
+![Contact Form](![image](https://github.com/bhuvnenger01/azurefrtproject/assets/110763257/366c8d80-6514-4907-9ad6-7aba6b10ece4)
+)
+![Contact Details](![image](https://github.com/bhuvnenger01/azurefrtproject/assets/110763257/ab264af9-60a9-419d-9e70-33cf65d064b0)
+)
 
-### App Service
-![App Service](https://github.com/eswar17v/FRT/assets/120295896/0acabf83-88f3-4b1a-9c48-e4a379e289b1)
 
 ## Contact Me:
 If you have any questions or feedback, please don't hesitate to reach out to me at [cebhuvneshsingh@gmail.com](mailto:cebhuvneshsingh@gmail.com).
